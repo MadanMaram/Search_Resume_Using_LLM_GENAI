@@ -22,3 +22,11 @@ Additional Considerations:
 The above code  delve into the technical details of setting up and using Langchain, ChromaDB, and the chosen LLM model.
 It cover aspects of data preparation, such as converting PDFs to text and generating embeddings for ChromaDB.
 
+
+- To download lamini
+git lfs install
+git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
+
+- To download senetence transformer
+git clone https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
